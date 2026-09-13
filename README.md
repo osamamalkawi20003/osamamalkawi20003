@@ -1,6 +1,6 @@
 👋 Welcome! I'm Osama Malkawi
 
-Full-Stack Software Enginee Student 
+Full-Stack Software Enginee 
 Building scalable, resilient, and end-to-end web applications with modern architectures.
 
 ---
@@ -16,12 +16,16 @@ Backend & Systems
 Databases & Cloud
 `SQL` • `Git / GitHub` • `Linux`
 
+AI & Developer Productivity
+`AI-Assisted Development` • `Prompt Engineering` • `GitHub Copilot` • `Cursor / AI Tooling`
+
 ---
 
-## 💻 What I Focus On
+💻 What I Focus On
 
 - 🏗️ Architecture & Clean Code : Designing robust backend services, modular frontend components, and high-performance databases.
 - ⚡ Problem Solving : Translating business requirements into efficient, maintainable technical solutions.
+- ⚡ AI-Powered Development : Leveraging cutting-edge AI tools to accelerate coding workflows, optimize algorithms, and streamline debugging.
 
 ---
 
@@ -33,6 +37,10 @@ Databases & Cloud
 
 ---
 
+📬 Connect & Collaborate
+
+- 💼 LinkedIn : 
+- ✉️ Email : malkawiosama668@gmail.com
 
 ---
 
