@@ -39,7 +39,7 @@ AI & Developer Productivity
 
 📬 Connect & Collaborate
 
-- 💼 LinkedIn : 
+- 💼 LinkedIn : osama_linkedin <https://www.linkedin.com/in/osama-malkawi-8360843b1>
 - ✉️ Email : malkawiosama668@gmail.com
 
 ---
