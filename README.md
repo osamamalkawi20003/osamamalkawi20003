@@ -37,5 +37,5 @@ Databases & Cloud
 ---
 
 <p align="center">
-  <i>"Clean code always looks like it was written by someone who cares."</i>
+  <i> Clean code always looks like it was written by someone who cares </i>
 </p>
